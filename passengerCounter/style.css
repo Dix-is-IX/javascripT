@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    color: white;
+}
+.btn{
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: aqua;
+    color: black;
+}
+#save-el{
+    padding: 10px;
+}
